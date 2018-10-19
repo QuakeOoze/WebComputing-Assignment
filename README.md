@@ -1,6 +1,6 @@
-# auction-app
+# Auction-app
 
-> assignment auction-app
+> Front-end for the auction app assignment, created with Vue and Node.
 
 ## Build Setup
 
