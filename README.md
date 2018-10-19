@@ -1,8 +1,18 @@
-# WebComputing-Assignment
-Web application created over two assignments, using Node and Vue
+# auction-app
 
-<br>
-Server and front-end can be run with ```npm run dev```
-<br>
+> assignment auction-app
 
-Unfortunately the database used for the app was provided by the university and is no longer running, so most of the functionality of app is not reachable.
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
